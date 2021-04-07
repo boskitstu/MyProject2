@@ -8,14 +8,6 @@
 			"Name": "DiscordRichPresence",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bea6edf5f297438ca3e8340702749642"
-		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": true
 		}
 	]
 }
